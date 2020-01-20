@@ -4,65 +4,73 @@
 
 ### ภาษา JAVA
 
-ดู source code [คลิก](https://www.onlinegdb.com/)
+ดู source code [คลิก](https://github.com/Nickzaahhaahha/CPSC231_Online_Compiler/blob/master/JAVA)
 
-### ภาษา JAVA
+### ภาษา C
 
-ดู source code [คลิก](https://www.onlinegdb.com/)
+ดู source code [คลิก](https://github.com/Nickzaahhaahha/CPSC231_Online_Compiler/blob/master/C)
 
-### ภาษา JAVA
+### ภาษา C++
 
-ดู source code [คลิก](https://www.onlinegdb.com/)
+ดู source code [คลิก](https://github.com/Nickzaahhaahha/CPSC231_Online_Compiler/blob/master/C%2B%2B)
 
-### ภาษา JAVA
+### ภาษา Python 3
 
-ดู source code [คลิก](https://www.onlinegdb.com/)
+ดู source code [คลิก](https://github.com/Nickzaahhaahha/CPSC231_Online_Compiler/blob/master/Python%203)
 
-### ภาษา JAVA
+### ภาษา PHP
 
-ดู source code [คลิก](https://www.onlinegdb.com/)
+ดู source code [คลิก](https://github.com/Nickzaahhaahha/CPSC231_Online_Compiler/blob/master/PHP)
 
-### ภาษา JAVA
+### ภาษา C#
 
-ดู source code [คลิก](https://www.onlinegdb.com/)
+ดู source code [คลิก](https://github.com/Nickzaahhaahha/CPSC231_Online_Compiler/blob/master/C%23)
 
-### ภาษา JAVA
+### ภาษา Ruby
 
-ดู source code [คลิก](https://www.onlinegdb.com/)
+ดู source code [คลิก](https://github.com/Nickzaahhaahha/CPSC231_Online_Compiler/blob/master/Ruby)
 
-### ภาษา JAVA
+### ภาษา Perl
 
-ดู source code [คลิก](https://www.onlinegdb.com/)
+ดู source code [คลิก](https://github.com/Nickzaahhaahha/CPSC231_Online_Compiler/blob/master/Perl)
 
-### ภาษา JAVA
+### ภาษา Pascal
 
-ดู source code [คลิก](https://www.onlinegdb.com/)
+ดู source code [คลิก](https://github.com/Nickzaahhaahha/CPSC231_Online_Compiler/blob/master/Pascal)
 
-### ภาษา JAVA
+### ภาษา R
 
-ดู source code [คลิก](https://www.onlinegdb.com/)
+ดู source code [คลิก](https://github.com/Nickzaahhaahha/CPSC231_Online_Compiler/blob/master/R)
 
-### ภาษา JAVA
+### ภาษา Fortran
 
-ดู source code [คลิก](https://www.onlinegdb.com/)
+ดู source code [คลิก](https://github.com/Nickzaahhaahha/CPSC231_Online_Compiler/blob/master/Fortran)
 
-### ภาษา JAVA
+### ภาษา Haskell
 
-ดู source code [คลิก](https://www.onlinegdb.com/)
+ดู source code [คลิก](https://github.com/Nickzaahhaahha/CPSC231_Online_Compiler/blob/master/Haskell)
 
-### ภาษา JAVA
+### ภาษา Objective C
 
-ดู source code [คลิก](https://www.onlinegdb.com/)
+ดู source code [คลิก](https://github.com/Nickzaahhaahha/CPSC231_Online_Compiler/blob/master/Objective%20C)
 
-### ภาษา JAVA
+### ภาษา java script
 
-ดู source code [คลิก](https://www.onlinegdb.com/)
+ดู source code [คลิก](https://github.com/Nickzaahhaahha/CPSC231_Online_Compiler/blob/master/javascript)
 
-### ภาษา JAVA
+### ภาษา swift
 
-ดู source code [คลิก](https://www.onlinegdb.com/)
+ดู source code [คลิก](https://github.com/Nickzaahhaahha/CPSC231_Online_Compiler/blob/master/swift)
 
-### ภาษา JAVA
+### ภาษา Rust
 
-ดู source code [คลิก](https://www.onlinegdb.com/)
+ดู source code [คลิก](https://github.com/Nickzaahhaahha/CPSC231_Online_Compiler/blob/master/Rust)
+
+### ภาษา Go
+
+ดู source code [คลิก](https://github.com/Nickzaahhaahha/CPSC231_Online_Compiler/blob/master/Go)
+
+### ภาษา Bash
+
+ดู source code [คลิก](https://github.com/Nickzaahhaahha/CPSC231_Online_Compiler/blob/master/Bash)
 
