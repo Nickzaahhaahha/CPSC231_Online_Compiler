@@ -2,7 +2,7 @@
 
 ลิงค์ทดสอบกดที่นี่เลย [คลิก](https://www.onlinegdb.com/)  
 
-ดู source code ไฟล์ PDF [คลิก](https://www.onlinegdb.com/) 
+ดู source code ไฟล์ PDF [คลิก](https://github.com/Nickzaahhaahha/CPSC231_Online_Compiler/blob/master/compiler.pdf) 
 
 ### ภาษา JAVA
 
