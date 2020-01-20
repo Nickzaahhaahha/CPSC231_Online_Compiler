@@ -1,0 +1,7 @@
+Program ForCommand
+integer i
+ 
+      do 10 i = 1, 10, +1
+         write(*,*)  '',i
+  10  continue
+End Program ForCommand
