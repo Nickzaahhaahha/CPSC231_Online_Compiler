@@ -1,6 +1,8 @@
 ## Online Compiler ทั้ง 18 ภาษา
 
-ลิงค์ทดสอบกดที่นี่เลย [คลิก](https://www.onlinegdb.com/)
+ลิงค์ทดสอบกดที่นี่เลย [คลิก](https://www.onlinegdb.com/)  
+
+ดู source code ไฟล์ PDF [คลิก](https://www.onlinegdb.com/) 
 
 ### ภาษา JAVA
 
@@ -73,4 +75,3 @@
 ### ภาษา Bash
 
 ดู source code [คลิก](https://github.com/Nickzaahhaahha/CPSC231_Online_Compiler/blob/master/Bash)
-
